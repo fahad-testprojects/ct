@@ -10,23 +10,23 @@ document.addEventListener('DOMContentLoaded', function() {
     // এখানে প্রতিটি পরীক্ষার জন্য আলাদা লিঙ্ক এবং পাসকোড নির্ধারণ করুন
     const classExams = {
         "class7": [
-            { name: "সপ্তম শ্রেণীর ক্লাস টেস্ট ১", link: "https://forms.gle/CX5RGk8suHxiDNcA7", passcode: "ct11" },
-            { name: "সপ্তম শ্রেণীর ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS7_2", passcode: "PASSCODE7_2" }
+            { name: "ক্লাস টেস্ট ১", link: "https://forms.gle/CX5RGk8suHxiDNcA7", passcode: "ct11" },
+            { name: "ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS7_2", passcode: "PASSCODE7_2" }
             // সপ্তম শ্রেণীর আরও ক্লাস টেস্ট এখানে যোগ করতে পারেন
         ],
         "class8": [
-            { name: "অষ্টম শ্রেণীর ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS8_1", passcode: "PASSCODE8_1" },
-            { name: "অষ্টম শ্রেণীর ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS8_2", passcode: "PASSCODE8_2" }
+            { name: "ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS8_1", passcode: "PASSCODE8_1" },
+            { name: "ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS8_2", passcode: "PASSCODE8_2" }
             // অষ্টম শ্রেণীর আরও ক্লাস টেস্ট এখানে যোগ করতে পারেন
         ],
         "class9": [
-            { name: "নবম শ্রেণীর ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS9_1", passcode: "PASSCODE9_1" },
-            { name: "নবম শ্রেণীর ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS9_2", passcode: "PASSCODE9_2" }
+            { name: "ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS9_1", passcode: "PASSCODE9_1" },
+            { name: "ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS9_2", passcode: "PASSCODE9_2" }
             // নবম শ্রেণীর আরও ক্লাস টেস্ট এখানে যোগ করতে পারেন
         ],
         "class10": [
-            { name: "দশম শ্রেণীর ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS10_1", passcode: "PASSCODE10_1" },
-            { name: "দশম শ্রেণীর ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS10_2", passcode: "PASSCODE10_2" }
+            { name: "ক্লাস টেস্ট ১", link: "YOUR_GOOGLE_FORM_LINK_CLASS10_1", passcode: "PASSCODE10_1" },
+            { name: "ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS10_2", passcode: "PASSCODE10_2" }
             // দশম শ্রেণীর আরও ক্লাস টেস্ট এখানে যোগ করতে পারেন
         ]
         // প্রয়োজন অনুযায়ী আরও ক্লাস এবং তাদের পরীক্ষার তালিকা যোগ করতে পারেন
