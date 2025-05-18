@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // এখানে প্রতিটি পরীক্ষার জন্য আলাদা লিঙ্ক এবং পাসকোড নির্ধারণ করুন
     const classExams = {
         "class7": [
-            { name: "সপ্তম শ্রেণীর ক্লাস টেস্ট ১", link: "l8.nu/ict8ct1", passcode: "ct11" },
+            { name: "সপ্তম শ্রেণীর ক্লাস টেস্ট ১", link: "https://l8.nu/ict8ct1", passcode: "ct11" },
             { name: "সপ্তম শ্রেণীর ক্লাস টেস্ট ২", link: "YOUR_GOOGLE_FORM_LINK_CLASS7_2", passcode: "PASSCODE7_2" }
             // সপ্তম শ্রেণীর আরও ক্লাস টেস্ট এখানে যোগ করতে পারেন
         ],
